@@ -1,6 +1,6 @@
 {
-  "version": "v7.11.0.705590205 (20220981)",
-  "versionCode": 20220981,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220981/googlephotos-revanced-magisk-v7.11.0.705590205-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v7.11.0.705590205 (1)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/1/googlephotos-revanced-magisk-v7.11.0.705590205-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/cybernobie/revanced-magisk-module/update/build.md"
 }
