@@ -1,6 +1,6 @@
 {
-  "version": "v7.21.0.737764319 (patches: 5.15.0)",
-  "versionCode": 18,
-  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/18/googlephotos-revanced-magisk-v7.21.0.737764319-arm-v7a.zip",
+  "version": "v7.22.0.739755607 (patches: 5.16.1)",
+  "versionCode": 19,
+  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/19/googlephotos-revanced-magisk-v7.22.0.739755607-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/cybernobie/revanced-magisk-module/update/build.md"
 }
