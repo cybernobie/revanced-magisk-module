@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.36.0)",
-  "versionCode": 43,
-  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/43/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches 5.37.0)",
+  "versionCode": 44,
+  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/44/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/cybernobie/revanced-magisk-module/update/build.md"
 }
