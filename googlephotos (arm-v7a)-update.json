@@ -1,6 +1,6 @@
 {
-  "version": "v7.48.0.813334473 (patches 5.42.1)",
-  "versionCode": 49,
-  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/49/googlephotos-revanced-magisk-v7.48.0.813334473-arm-v7a.zip",
+  "version": "v7.49.0.816946145 (patches 5.43.0)",
+  "versionCode": 50,
+  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/50/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/cybernobie/revanced-magisk-module/update/build.md"
 }
