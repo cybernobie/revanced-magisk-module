@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.48.0)",
-  "versionCode": 56,
-  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/56/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.50.2.rvp)",
+  "versionCode": 57,
+  "zipUrl": "https://github.com/cybernobie/revanced-magisk-module/releases/download/57/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/cybernobie/revanced-magisk-module/update/build.md"
 }
